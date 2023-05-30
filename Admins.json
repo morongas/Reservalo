@@ -1,0 +1,29 @@
+{
+  "coleccionAdmins": [
+    {
+      "user": "AdminReservalo.CesarGarcia",
+      "clave": "RESERVALO.adm001.CG",
+      "codigo": 202111001
+    },
+    {
+      "user": "AdminReservalo.CarlosMoron",
+      "clave": "RESERVALO.adm002.CM",
+      "codigo": 202111002
+    },
+    {
+      "user": "AdminReservalo.ItaloVisconti",
+      "clave": "RESERVALO.adm003.IV",
+      "codigo": 202111003
+    },
+    {
+      "user": "AdminReservalo.AndresPerez",
+      "clave": "RESERVALO.adm004.AP",
+      "codigo": 202111004
+    },
+    {
+      "user": "AdminReservalo.JorgeEsclasans",
+      "clave": "RESERVALO.adm005.JE",
+      "codigo": 202111005
+    }
+  ]
+}

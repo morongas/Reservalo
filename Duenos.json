@@ -1,0 +1,55 @@
+{
+  "coleccionDuenos": [
+    {
+      "alojamiento": [
+        {
+          "nombre": "Marriot",
+          "tipoDeAlojamiento": 0,
+          "direccion": "direccion cesar garcia, el cuarto de cesar, la cama de cesar, al lado de Cesar Garcia",
+          "telefono": "02126902869",
+          "rif": 1231231,
+          "codigoPostal": 1050,
+          "estado": "Carabobo",
+          "verificado": true,
+          "solicitoVerificacion": true,
+          "imagenes": [
+            "Fachada2.jpg",
+            "Hab1.jpg",
+            "Lobby1.jpg"
+          ],
+          "cHabitaciones": 1,
+          "habitaciones": {
+            "coleccionHabitacion": [
+              {
+                "tipo": "Quad",
+                "cPersonas": 5,
+                "precio": 100
+              }
+            ]
+          },
+          "promocion": "SI",
+          "calificaciones": [],
+          "fechas": [
+            {
+              "dia": "4",
+              "mes": "5",
+              "anio": "2022"
+            },
+            {
+              "dia": "4",
+              "mes": "4",
+              "anio": "2023"
+            }
+          ],
+          "solicitudesActivas": [
+            {
+              "nombre": "italo"
+            }
+          ]
+        }
+      ],
+      "user": "italo.hsp",
+      "clave": "119 106 116 100 112 111 117 106 52 "
+    }
+  ]
+}
